@@ -4,7 +4,7 @@
 
 O **Refund** simula um sistema de registro de despesas, onde o usuário pode informar dados como nome, categoria e valor, visualizando automaticamente a lista de solicitações e o total acumulado.
 
-Esse projeto foi desenvolvido como prática do módulo de **JavaScript Intermediário**, com foco em manipulação do DOM, eventos e estruturação de dados.
+Esse projeto foi desenvolvido como prática do módulo de **JavaScript Intermediário na Roketseat**, com foco em manipulação do DOM, eventos e estruturação de dados.
 
 ---
 
@@ -31,7 +31,8 @@ Esse projeto foi desenvolvido como prática do módulo de **JavaScript Intermedi
 
 - HTML5
 - CSS3
-- JavaScript 
+- JavaScript
+- Vercel
 
 ---
 
