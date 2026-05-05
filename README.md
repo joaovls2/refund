@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido como prática do módulo de **JavaScript Intermedi
 
 ## 🌐 Deploy
 
-🔗 Acesse o projeto: 
+🔗 Acesse o projeto: https://refund-six-dusky.vercel.app/
 
 ---
 
